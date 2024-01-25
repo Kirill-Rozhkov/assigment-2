@@ -14,7 +14,7 @@ public class Student extends Person {
         setSurname(surname);
         setGpa(gpa);
         setSalary();
-        setPosition("modules.Student");
+        setPosition("Student");
     }
 
     @Override

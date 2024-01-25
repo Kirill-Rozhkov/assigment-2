@@ -10,7 +10,7 @@ public class Employee extends Person {
         this();
         setName(name);
         setSurname(surname);
-        setPosition("modules.Employee");
+        setPosition("Employee");
         setSalary(salary);
     }
 
